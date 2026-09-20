@@ -61,7 +61,7 @@ To design and implement an embedded access-control system that provides:
 - 🔄 Password reset functionality
 - 🚫 Keypad scanning implemented without the Keypad library
 
-## 📊 System Architecture
+## 📊 Project Workflow
 
 ```text
                  ┌──────────────────┐
