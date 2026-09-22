@@ -61,6 +61,13 @@ To design and implement an embedded access-control system that provides:
 - 🔄 Password reset functionality
 - 🚫 Keypad scanning implemented without the Keypad library
 
+## 📸 Project Demonstration
+
+### Wokwi Circuit
+
+![Wokwi Circuit](circuit)
+
+
 ## 📊 Project Workflow
 
 ```text
