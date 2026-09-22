@@ -65,7 +65,7 @@ To design and implement an embedded access-control system that provides:
 
 ### Wokwi Circuit
 
-![Wokwi Circuit](circuit)
+![Wokwi Circuit](images/circuit.png)
 
 
 ## 📊 Project Workflow
